@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @geeky-Mira<br>👀 I’m interested in Machine Learning and Artificial Intelligence<br>🌱 I’m currently pursuing MCA<br>💞️ I’m looking to collaborate on ML/AI projects
+👋 Hi, I’m @geeky-Mira<br>👀 I’m interested in Machine Learning and Artificial Intelligence<br>🌱 I’m currently pursuing MCA<br>💞️ I’m looking to collaborate on AI/ML projects
 
 
 ## 🌐 Socials:
